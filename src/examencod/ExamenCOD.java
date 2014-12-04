@@ -5,8 +5,8 @@ public class ExamenCOD {
 
 
     public static void main(String[] args) {
- int iN = 11;
-            	if (metodoMio(iN))
+ int num = 11;
+            	if (metodoMio(num))
 System.out.println("Es numero primo");
 else
  System.out.println("NO es numero primo");           	 
